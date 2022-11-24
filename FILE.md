@@ -19,4 +19,7 @@ bug-fix [commit 5] - git merge master
 bug-fix [commit 5] - resolve merge conflict and edit FILE.md  
 bug-fix [commit 5] - git add FILE.md  
 bug-fix [commit 5] - git commit -m "Commit 5: Resolve merge conflict and edit the File.md file"
+bug-fix [commit 6] - edit FILE.md  
+bug-fix [commit 6] - git add FILE.md  
+bug-fix [commit 6] - git commit -m "Commit 6: Edit the FILE.md file"  
 
