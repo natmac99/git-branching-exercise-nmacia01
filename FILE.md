@@ -16,3 +16,6 @@ bug-fix-experimental [commit 7] - git commit -m "Commit 7: Edit the FILE.md file
 bug-fix-experimental [commit 8] - edit FILE.md    
 bug-fix-experimental [commit 8] - git add FILE.md     
 bug-fix-experimental [commit 8] - git commit -m "Commit 8: Edit the FILE.md file"  
+bug-fix-experimental [commit 9] - edit FILE.md    
+bug-fix-experimental [commit 9] - git add FILE.md     
+bug-fix-experimental [commit 9] - git commit -m "Commit 9: Edit the FILE.md file"   
