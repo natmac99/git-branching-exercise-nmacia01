@@ -49,5 +49,8 @@ master [commit 13] - git merge bug-fix
 master [commit 13] - resolve merge conflict and edit FILE.md  
 master [commit 13] - git add FILE.md   
 master [commit 13] - git commit -m "Commit 13: Edit the FILE.md file"  
+master [commit 14] - git log --all --decorate --oneline --graph  
+master [commit 14] - commit graph image and edit File.md  
+master [commit 14] - git add commit\ graph.png FILE.md
 
 
