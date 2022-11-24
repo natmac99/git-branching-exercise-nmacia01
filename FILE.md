@@ -37,4 +37,7 @@ bug-fix [commit 11] - git merge bug-fix-experimental
 bug-fix [commit 11] - resolve merge conflict and edit FILE.md  
 bug-fix [commit 11] - git add FILE.md  
 bug-fix [commit 11] - git commit -m "Commit 11: Resolve merge conflict and edit the File.md file"  
+bug-fix [commit 12] - edit FILE.md  
+bug-fix [commit 12] - git add FILE.md   
+bug-fix [commit 12] - git commit -m "Commit 12: Edit the FILE.md file"  
 
