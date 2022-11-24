@@ -8,4 +8,8 @@ master [commit 1] - git commit -m "Commit 1: Edit the FILE.md file"
 master [commit 2] - edit FILE.md  
 master [commit 2] - git add FILE.md  
 master [commit 2] - git commit -m "Commit 2: Edit the FILE.md file"  
+master [commit 10] - git checkout master  
+master [commit 10] - edit FILE.md  
+master [commit 10] - git add FILE.md   
+master [commit 10] - git commit -m "Commit 10: Edit the FILE.md file"  
 
