@@ -8,4 +8,8 @@ bug-fix [commit 3] - git add FILE.md
 bug-fix [commit 3] - git commit -m "Commit 3: Edit the FILE.md file"
 bug-fix [commit 4] - edit FILE.md  
 bug-fix [commit 4] - git add FILE.md   
-bug-fix [commit 4] - git commit -m "Commit 4: Edit the FILE.md file" 
+bug-fix [commit 4] - git commit -m "Commit 4: Edit the FILE.md file"   
+bug-fix-experimental [commit 7] - git checkout -b bug-fix-experimental c11c80d    
+bug-fix-experimental [commit 7] - edit FILE.md    
+bug-fix-experimental [commit 7] - git add FILE.md     
+bug-fix-experimental [commit 7] - git commit -m "Commit 7: Edit the FILE.md file"
